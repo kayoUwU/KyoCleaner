@@ -1,0 +1,11 @@
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\bin\Debug\KyoCleaner.exe.config
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\bin\Debug\KyoCleaner.exe
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\bin\Debug\KyoCleaner.pdb
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.csproj.AssemblyReference.cache
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.cleaner.resources
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.Properties.Resources.resources
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.csproj.GenerateResource.cache
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.csproj.CoreCompileInputs.cache
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.exe
+C:\Users\kayop\source\repos\KyoCleaner\KyoCleaner\obj\Debug\KyoCleaner.pdb
